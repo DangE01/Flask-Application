@@ -3,3 +3,5 @@ pandas
 pylint
 wikipedia
 google-cloud-language
+webapp2
+webob
